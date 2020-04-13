@@ -1,0 +1,1 @@
+First project of C#. Just learning the basics (.NET, strings, methods)
