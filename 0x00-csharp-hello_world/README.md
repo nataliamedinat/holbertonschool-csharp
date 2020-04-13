@@ -1,0 +1,1 @@
+First steps with c#. Understanding the basics (.NET, differences, strings, methods to print, configure...etc)
