@@ -8,8 +8,11 @@ namespace _5_print_comb
         {
             int number;
             for (number = 0; number <= 99; number++)
-            Console.Write(@"{0}{1:D2}, ", number);
-                  
+            if (number != 99)
+            Console.Write(@"{0:d2}, ", number);
+            else
+             Console.Write(@"{0:d2} ", number);
+        
         }
     }
 }
