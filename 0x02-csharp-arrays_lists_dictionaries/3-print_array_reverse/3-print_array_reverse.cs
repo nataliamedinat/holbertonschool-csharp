@@ -6,7 +6,7 @@
         {
             if (array == null || array.Length == 0)
             {
-                Console.WriteLine("\n");
+                Console.WriteLine("");
                 return ;
             }
 
