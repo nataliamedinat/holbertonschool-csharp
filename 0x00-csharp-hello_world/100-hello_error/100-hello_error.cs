@@ -7,7 +7,7 @@ namespace _100_hello_error
         static void Main(string[] args)
         {
             System.IO.TextWriter errorWriter = Console.Error;
-            errorWriter.WriteLine("and that piece of art is useful - Dora Korpar, 2015-10-19\n");
+            errorWriter.WriteLine("and that piece of art is useful - Dora Korpar, 2015-10-19");
             Environment.Exit(1);
         }
     }
