@@ -19,9 +19,13 @@
 
         for (int trav=0; trav < newarr.Length; trav++)
             {
+                if (trav == newarr.Length -1)
+                {
+                    Console.WriteLine(trav + " ");
+                    break;
+                }
                 Console.Write (trav + " ");
             }
-            Console.WriteLine("");
             return newarr;
         }
     }
