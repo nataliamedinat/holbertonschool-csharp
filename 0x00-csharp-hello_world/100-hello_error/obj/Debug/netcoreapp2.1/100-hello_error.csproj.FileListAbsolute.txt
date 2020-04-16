@@ -1,0 +1,11 @@
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp2.1\100-hello_error.deps.json
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp2.1\100-hello_error.runtimeconfig.json
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp2.1\100-hello_error.runtimeconfig.dev.json
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp2.1\100-hello_error.dll
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x00-csharp-hello_world\100-hello_error\bin\Debug\netcoreapp2.1\100-hello_error.pdb
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp2.1\100-hello_error.csprojAssemblyReference.cache
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp2.1\100-hello_error.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp2.1\100-hello_error.AssemblyInfoInputs.cache
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp2.1\100-hello_error.AssemblyInfo.cs
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp2.1\100-hello_error.dll
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x00-csharp-hello_world\100-hello_error\obj\Debug\netcoreapp2.1\100-hello_error.pdb
