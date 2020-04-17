@@ -6,10 +6,10 @@ using System.Linq;
     {
         public static void PrintSorted(Dictionary<string, string> myDict)
         {
-            var list = myDict.Keys.ToList();
-            list.Sort();
+            var lists = myDict.Keys.ToList();
+            lists.Sort();
 
-        foreach (var key in list)
+        foreach (var key in lists)
         {
             Console.WriteLine("{0}: {1}", key, myDict[key]);
         }   
