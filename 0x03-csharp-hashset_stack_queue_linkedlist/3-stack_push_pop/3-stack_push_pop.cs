@@ -19,7 +19,8 @@ using System.Collections.Generic;
 
             // search for an item
             bool elem = true;
-            Console.WriteLine("Stack contains \"{0}\": {1}", search, aStack.Contains(search));
+            elem = (aStack.Contains(search));
+            Console.WriteLine($"Stack contains \"{search}\": {elem}");
 
             if (elem)
             {
