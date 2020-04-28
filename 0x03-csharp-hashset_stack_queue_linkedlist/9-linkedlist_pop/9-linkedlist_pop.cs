@@ -5,13 +5,16 @@ using System.Collections.Generic;
     {
         public static int Pop(LinkedList<int> myLList)
         {
-            int headnode = myLList.First.Value;
-
-            if (myLList.Count == 0)
             {
-                return 0;
+                int headNode = myLList.First.Value;
+
+                if (myLList.Count <= 0)
+                {
+                    return 0;
+                }
+
+                myLList.RemoveFirst();
+                return headNode;
             }
-            myLList.RemoveFirst();
-            return headnode;
         }
     }
