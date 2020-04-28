@@ -6,7 +6,8 @@ using System.Collections.Generic;
         public static int Pop(LinkedList<int> myLList)
         {
             int headnode = myLList.First.Value;
-            if (myLList.Count <= 0)
+
+            if (myLList.Count == 0)
             {
                 return 0;
             }
