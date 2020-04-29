@@ -1,0 +1,1 @@
+Structs and enum value types.
