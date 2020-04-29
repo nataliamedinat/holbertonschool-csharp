@@ -20,9 +20,9 @@ struct Dog
     owner = DogOwner;
     rating = DogRating;
  }
- 
+
  public override string ToString()
- {
-     return string.Format($"Dog name: {name}\nAge: {age}\nOwner: {owner}\nRating: {rating}");
- }
+    {
+        return String.Format($"Dog Name: {name}\nAge: {age}\nOwner: {owner}\nRating: {rating}");
+    }
 }
