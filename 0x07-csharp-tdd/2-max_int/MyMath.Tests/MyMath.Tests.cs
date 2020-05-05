@@ -36,5 +36,16 @@ namespace MyMath.Tests
             //Asset
             Assert.AreEqual(120, r);
         }
+
+        [Test]
+        public void ListNull()
+        {
+            //Arrange
+            List<int> mylist = null;
+            // Act
+            int r = MyMath.Operations.Max(mylist);
+            //Asset
+            Assert.AreEqual(0, r);
+        }
     }
 }
