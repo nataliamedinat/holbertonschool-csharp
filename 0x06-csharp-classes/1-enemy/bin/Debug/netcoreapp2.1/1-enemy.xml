@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary> Represents and define a zombie empty class. </summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary> Represents the healt of the zombie. </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary> Initializes health in 0. </summary>
+        </member>
+    </members>
+</doc>
