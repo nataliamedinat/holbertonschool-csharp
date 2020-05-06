@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary> Class string </summary>
+        </member>
+        <member name="M:Text.Str.IsPalindrome(System.String)">
+            <summary> Determines if an string its palindrome.false Return true or false </summary>
+        </member>
+    </members>
+</doc>
