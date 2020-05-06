@@ -27,6 +27,19 @@ namespace Text.Tests
         }
 
          [Test]
+        public void PalindromeWithSpaces()
+        {
+            // Arrage
+            string str = "A man, a plan, a canal: Panama.";
+
+            // Act
+            var result = Text.Str.IsPalindrome(str);
+
+            // Assert
+            Assert.AreEqual(true, result);
+        }
+
+         [Test]
         public void PoliFalse()
         {
             string str = "Lola";
