@@ -19,24 +19,19 @@ namespace Text.Tests
         }
 
         [Test]
-        public void PalindromeWithSpaces()
-        {
-            // Arrage
-            string str = "No lemon, no melon.";
-
-            // Act
-            var result = Text.Str.IsPalindrome(str);
-
-            // Assert
-            Assert.AreEqual(true, result);
-        }
-
-        [Test]
         public void SpacePoli()
         {
             string str = " ";
             var result = Text.Str.IsPalindrome(str);
             Assert.AreEqual(true, result);
+        }
+
+         [Test]
+        public void PoliFalse()
+        {
+            string str = "Lola";
+            bool result = Text.Str.IsPalindrome(str);
+            Assert.AreEqual(false, result);
         }
     }
 }
