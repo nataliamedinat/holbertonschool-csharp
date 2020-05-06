@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace Text
 {
@@ -9,8 +10,12 @@ namespace Text
         /// <summary> Determines if an string its palindrome.false Return true or false </summary>
         public static bool IsPalindrome(string s)
         {
+            s = Regex.Replace(s, "[:;,. \t\n\r]", "");
             string pali = new string(s.Reverse().ToArray());
-            return s.SequenceEqual(s);
+            if (s == pali)
+                return true;
+            else
+                return false;
 
         }
     }
