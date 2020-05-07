@@ -1,0 +1,13 @@
+C:\Users\Alejandro\Desktop\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp3.1\0-is.exe
+C:\Users\Alejandro\Desktop\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp3.1\0-is.deps.json
+C:\Users\Alejandro\Desktop\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp3.1\0-is.runtimeconfig.json
+C:\Users\Alejandro\Desktop\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp3.1\0-is.runtimeconfig.dev.json
+C:\Users\Alejandro\Desktop\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp3.1\0-is.dll
+C:\Users\Alejandro\Desktop\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp3.1\0-is.pdb
+C:\Users\Alejandro\Desktop\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp3.1\0-is.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp3.1\0-is.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp3.1\0-is.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp3.1\0-is.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp3.1\0-is.dll
+C:\Users\Alejandro\Desktop\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp3.1\0-is.pdb
+C:\Users\Alejandro\Desktop\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp3.1\0-is.genruntimeconfig.cache
