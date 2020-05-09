@@ -23,5 +23,13 @@ namespace Text.Tests
             Assert.AreEqual(3, result);
 
         }
+
+        [Test]
+        public void WhenNull()
+        {
+            string str = null;
+            var result = Str.CamelCase(str);
+            Assert.AreEqual(0, result);
+        }
     }
 }
