@@ -1,7 +1,7 @@
 ﻿using System;
 
-    ///<summary>Class queue</summary>
-    class Queue<T>
+///<summary>Class queue</summary>
+class Queue<T>
     {
         ///<summary>Check an return T type</summary>
         public Type CheckType()
