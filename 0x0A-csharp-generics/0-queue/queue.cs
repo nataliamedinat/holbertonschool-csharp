@@ -1,11 +1,11 @@
 ﻿using System;
 
-///<summary>Class queue</summary>
+///<summary>Class queues</summary>
 class Queue<T>
-    {
-        ///<summary>Check an return T type</summary>
-        public Type CheckType()
-        {
-            return typeof(T);
-        }
-    }
+{
+	///<summary>Check the type</summary>
+	public Type CheckType()
+	{
+		return typeof(T);
+	}
+}

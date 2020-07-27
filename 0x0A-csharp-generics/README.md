@@ -1,1 +1,1 @@
-C# - Generics
+Generics
