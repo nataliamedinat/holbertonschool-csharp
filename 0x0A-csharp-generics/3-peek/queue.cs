@@ -65,7 +65,7 @@ class Queue<T>
         }
     }
 
-
+    ///<summary> returns the value of the first node of the queue without removing the node. </summary>
     public T Peek()
     {
         if(head == null)
