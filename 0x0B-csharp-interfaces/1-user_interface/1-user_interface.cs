@@ -44,22 +44,23 @@
     ///<summary> Class that inherits from base and from all the interfaces </summary>
     public class TestObject : Base, IInteractive, ICollectable, IBreakable
     {
-    public int durability { get; set; }
-    public bool isCollected { get; set; }
 
-    public void Interact()
-    {
+        public int durability { get; set; }
+        public bool isCollected { get; set; }
+
+        public void Interact()
+        {
+
+        }
+
+        public void Break()
+        {
+
+        }
+
+        public void Collect()
+        {
+
+        }
 
     }
-
-    public void Break()
-    {
-
-    }
-
-    public void Collect()
-    {
-
-    }
-
-}
