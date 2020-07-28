@@ -6,7 +6,6 @@
         ///<summary>Public property </summary>
         public string name;
 
-
         ///<summary>Override tostring method</summary>
         public override string ToString()
         {
@@ -15,14 +14,14 @@
     }
 
     ///<summary>Interface interactive  </summary>
-    public interface IInteractive
+    interface IInteractive
     {
         ///<summary> Method interact </summary>
         void Interact();
     }
 
     ///<summary> Interface breakable </summary>
-    public interface IBreakable
+    interface IBreakable
     {
         ///<summary> Property int durability</summary>
         int durability {get; set;}
@@ -32,7 +31,7 @@
     }
 
     ///<summary> Collectable interface </summary>
-    public interface ICollectable
+    interface ICollectable
     {
         ///<summary> Bool property </summary>
         bool isCollected {get; set;}
@@ -42,7 +41,7 @@
     }
 
     ///<summary> Class that inherits from base and from all the interfaces </summary>
-    public class TestObject : Base, IInteractive, ICollectable, IBreakable
+    class TestObject : Base, IInteractive, ICollectable, IBreakable
     {
 
         public int durability { get; set; }
