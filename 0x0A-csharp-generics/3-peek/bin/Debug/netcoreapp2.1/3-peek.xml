@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-peek</name>
+    </assembly>
+    <members>
+        <member name="T:Queue`1">
+            <summary>Class queues</summary>
+        </member>
+        <member name="M:Queue`1.CheckType">
+            <summary>Check the type</summary>
+        </member>
+        <member name="T:Queue`1.Node">
+            <summary> Class node</summary>
+        </member>
+        <member name="F:Queue`1.Node.value">
+            <summary> Value can be any type </summary>
+        </member>
+        <member name="F:Queue`1.Node.next">
+            <summary> Next node</summary>
+        </member>
+        <member name="M:Queue`1.Node.#ctor(`0)">
+            <summary>Constructor that takes a value for a new Node as its only parameter and sets it </summary>
+        </member>
+        <member name="F:Queue`1.head">
+            <summary> Pinter to the head </summary>
+        </member>
+        <member name="F:Queue`1.tail">
+            <summary> Pointer to the tail</summary>
+        </member>
+        <member name="F:Queue`1.count">
+            <summary> Count number of nodes</summary>
+        </member>
+        <member name="M:Queue`1.Enqueue(`0)">
+            <summary> creates a new Node and adds it to the end of the queue.</summary>
+        </member>
+        <member name="M:Queue`1.Dequeue">
+            <summary> Removes the first node in the queue and returns its value</summary>
+        </member>
+        <member name="M:Queue`1.Count">
+            <summary> Return number of nodes</summary>
+        </member>
+    </members>
+</doc>
