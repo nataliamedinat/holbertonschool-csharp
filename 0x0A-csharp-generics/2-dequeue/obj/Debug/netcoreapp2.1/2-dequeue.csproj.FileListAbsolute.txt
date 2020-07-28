@@ -1,0 +1,12 @@
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x0A-csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.deps.json
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x0A-csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.runtimeconfig.json
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x0A-csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.runtimeconfig.dev.json
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x0A-csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.dll
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x0A-csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.pdb
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x0A-csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.csprojAssemblyReference.cache
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x0A-csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x0A-csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.AssemblyInfoInputs.cache
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x0A-csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.AssemblyInfo.cs
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x0A-csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.dll
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x0A-csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.pdb
+C:\Users\Natalia\Desktop\holbertonschool-csharp-1\0x0A-csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.xml
