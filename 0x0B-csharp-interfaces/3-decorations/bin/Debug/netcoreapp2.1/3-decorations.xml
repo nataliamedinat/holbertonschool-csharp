@@ -37,5 +37,11 @@
         <member name="M:ICollectable.Collect">
             <summary> Collect method </summary>
         </member>
+        <member name="T:Door">
+            <summary>  Class door </summary>
+        </member>
+        <member name="T:Decoration">
+            <summary> Class decoration </summary>
+        </member>
     </members>
 </doc>

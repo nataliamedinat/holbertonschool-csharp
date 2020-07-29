@@ -40,7 +40,7 @@
         void Collect();
     }
 
-      ///<summary>  Class door </summary>
+    ///<summary>  Class door </summary>
     class Door : Base, IInteractive
     {
         public Door(string named = "Door")
