@@ -50,6 +50,7 @@ class Player
         this.ValidateHP(this.hp + heal);
     }
 
+    ///<summary> Validate hp </summary>
     public void ValidateHP(float newHp)
     {
         if (newHp < 0)
