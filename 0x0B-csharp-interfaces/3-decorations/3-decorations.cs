@@ -40,6 +40,7 @@
         void Collect();
     }
 
+      ///<summary>  Class door </summary>
     class Door : Base, IInteractive
     {
         public Door(string named = "Door")
@@ -53,6 +54,7 @@
         }
     }
 
+    ///<summary> Class decoration </summary>
     class Decoration : Base, IInteractive, IBreakable
     {
         public bool isQuestItem;
