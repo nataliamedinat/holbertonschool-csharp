@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-validation</name>
+    </assembly>
+    <members>
+        <member name="T:Player">
+            <summary> Class player </summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary> Constructor </summary>
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary> Method that prints health </summary>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary> Calculates damage</summary>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary> Heal damage </summary>
+        </member>
+    </members>
+</doc>
