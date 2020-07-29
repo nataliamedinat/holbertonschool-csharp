@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-decorations</name>
+    </assembly>
+    <members>
+        <member name="T:Base">
+            <summary>Base class </summary>
+        </member>
+        <member name="F:Base.name">
+            <summary>Public property </summary>
+        </member>
+        <member name="M:Base.ToString">
+            <summary>Override tostring method</summary>
+        </member>
+        <member name="T:IInteractive">
+            <summary>Interface interactive  </summary>
+        </member>
+        <member name="M:IInteractive.Interact">
+            <summary> Method interact </summary>
+        </member>
+        <member name="T:IBreakable">
+            <summary> Interface breakable </summary>
+        </member>
+        <member name="P:IBreakable.durability">
+            <summary> Property int durability</summary>
+        </member>
+        <member name="M:IBreakable.Break">
+            <summary> Break method </summary>
+        </member>
+        <member name="T:ICollectable">
+            <summary> Collectable interface </summary>
+        </member>
+        <member name="P:ICollectable.isCollected">
+            <summary> Bool property </summary>
+        </member>
+        <member name="M:ICollectable.Collect">
+            <summary> Collect method </summary>
+        </member>
+    </members>
+</doc>
