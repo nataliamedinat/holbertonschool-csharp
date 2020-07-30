@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>4-check_yourself</name>
+    </assembly>
+    <members>
+        <member name="T:Modifier">
+            <summary> public enum </summary>
+        </member>
+        <member name="F:Modifier.Weak">
+            <summary> Weak </summary>
+        </member>
+        <member name="F:Modifier.Base">
+            <summary>Base</summary>
+        </member>
+        <member name="F:Modifier.Strong">
+            <summary> strong</summary>
+        </member>
+        <member name="T:CurrentHPArgs">
+            <summary>CurrentHPargs class</summary>
+        </member>
+        <member name="F:CurrentHPArgs.currentHp">
+            <summary>Not modifable current hp float</summary>
+        </member>
+        <member name="M:CurrentHPArgs.#ctor(System.Single)">
+            <summary>CurrentHPargs constructor</summary>
+        </member>
+        <member name="T:CalculateModifier">
+            <summary> delegate calculate modifier </summary>
+        </member>
+        <member name="T:Player">
+            <summary> Class player </summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary> Constructor </summary>
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary> Method that prints health </summary>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary> Calculates damage</summary>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary> Heal damage </summary>
+        </member>
+        <member name="M:Player.ValidateHP(System.Single)">
+            <summary> Validate hp </summary>
+        </member>
+        <member name="M:Player.ApplyModifier(System.Single,Modifier)">
+            <summary> Method</summary>
+        </member>
+        <member name="M:Player.CheckStatus(System.Object,CurrentHPArgs)">
+            <summary> Method</summary>
+        </member>
+    </members>
+</doc>
