@@ -1,5 +1,7 @@
 ﻿using System;
 
+delegate void CalculateHealth(float health);
+
 ///<summary> Class player </summary>
 class Player
 {
@@ -33,24 +35,22 @@ class Player
     ///<summary> Calculates damage</summary>
     public void TakeDamage(float damage)
     {
-        float newHp;
         if (damage < 0)
             Console.WriteLine($"{name} takes 0 damage!");
         else
             Console.WriteLine($"{name} takes {damage} damage!");
-        newHp = this.hp - damage;
+        float newHp = this.hp - damage;
         ValidateHP(newHp);
     }
 
     ///<summary> Heal damage </summary>
     public void HealDamage(float heal)
     {
-        float newHp;
         if (heal < 0)
             Console.WriteLine($"{name} heals 0 HP!");
         else
             Console.WriteLine($"{name} heals {heal} HP!");
-        newHp = this.hp + heal;
+        float newHp = this.hp + heal;
         ValidateHP(newHp);
     }
 
