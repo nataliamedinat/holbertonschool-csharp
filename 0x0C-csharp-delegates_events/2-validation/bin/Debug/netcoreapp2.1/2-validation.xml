@@ -19,5 +19,8 @@
         <member name="M:Player.HealDamage(System.Single)">
             <summary> Heal damage </summary>
         </member>
+        <member name="M:Player.ValidateHP(System.Single)">
+            <summary> Validate hp </summary>
+        </member>
     </members>
 </doc>
