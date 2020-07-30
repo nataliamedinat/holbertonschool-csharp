@@ -36,7 +36,10 @@ class Player
     public void TakeDamage(float damage)
     {
         if (damage < 0)
+        {
             Console.WriteLine($"{name} takes 0 damage!");
+            damage = 0f;
+        }
         else
             Console.WriteLine($"{name} takes {damage} damage!");
         float newHp = this.hp - damage;
@@ -47,9 +50,13 @@ class Player
     public void HealDamage(float heal)
     {
         if (heal < 0)
+        {
             Console.WriteLine($"{name} heals 0 HP!");
+            heal = 0f;
+        }
         else
             Console.WriteLine($"{name} heals {heal} HP!");
+        
         float newHp = this.hp + heal;
         ValidateHP(newHp);
     }
